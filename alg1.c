@@ -1,8 +1,11 @@
 #include <stdio.h>
 
-in main(){
-	printf("Programa para teste de commit");
-	printf("Nova linha de programa")
+int main(){
+	int x;
+	float y;
+	y=7.5;
+	x=y;
+	printf("X: %d", x);
 	return 0;
 }
 	
